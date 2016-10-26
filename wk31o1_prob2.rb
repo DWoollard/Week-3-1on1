@@ -2,6 +2,7 @@
 #Return the largest number from the array, without using max. Make the tests pass. Do not use max, for or while.
 
 def max(items)
+#(was not sure if instructions meant the method.max. this is my solution only restricting the method: max)
   max = items.sort.last
 end
 
